@@ -3,8 +3,11 @@
 ## Primer año
 ### [1ro 1C - Algoritmos y Programacion](https://github.com/FAMAF-resources/LMA-1ro_1C-Algoritmos_y_Programacion-FAMAF)
 ### [1ro 1C - Matematica Discreta I](https://github.com/FAMAF-resources/1ro_1C-Matematica_Discreta_I-FAMAF)
+### [1ro 1C - Calculo I](https://github.com/FAMAF-resources/1ro_1C-Analisis_Matematico_I-FAMAF)
 ### [1ro 2C - Física I](https://github.com/FAMAF-resources/LMA-1ro_2C-Fisica_I-FAMAF)
-### [1ro_1C - Calculo I](https://github.com/FAMAF-resources/1ro_1C-Analisis_Matematico_I-FAMAF)
+### [1ro 2C - Algebra Lineal](https://github.com/FAMAF-resources/1ro_2C-Algebra-FAMAF)
+### [1ro 2C - Calculo II](https://github.com/FAMAF-resources/1ro_2C-Analisis_Matematico_II-FAMAF)
+
 
 
 ## Segundo año
