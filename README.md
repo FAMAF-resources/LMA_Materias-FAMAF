@@ -30,7 +30,7 @@
 ### [4to 1C - Investigacion_de_Operaciones](https://github.com/FAMAF-resources/LMA-4to_1C-Investigacion_de_Operaciones-FAMAF-)
 ### [4to 1C - Matematica Discreta II](https://github.com/FAMAF-resources/3ro_1C-Matematica_Discreta_II-FAMAF)
 ### [4to 1C - Ciencia de datos](https://github.com/FAMAF-resources/LMA-4to_1C-Ciencia_de_datos-FAMAF)
-### [4to 1C - Sistemas de Control](https://github.com/FAMAF-resources/LMA-4to_1C-Sistemas_de_Control-FAMAF)
+### [4to 2C - Sistemas de Control](https://github.com/FAMAF-resources/LMA-4to_2C-Sistemas_de_Control-FAMAF)
 
 ## Quinto año
 ### [5to 1C - Modelos de Programacion](https://github.com/FAMAF-resources/LMA-5to_1C-Modelos_de_Programacion-FAMAF)
