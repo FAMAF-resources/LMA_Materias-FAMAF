@@ -78,4 +78,4 @@ Este repositorio está abierto a contribuciones de estudiantes o egresados/as qu
 - Podés hacer un fork, subir tus cambios y abrir un Pull Request.
 - También podés abrir un *issue* para proponer ideas o reportar errores en los enlaces.
 
-> ✉️ Si tenés dudas o querés colaborar directamente, podés contactarnos por GitHub.
+> ✉️ Si tenés dudas o querés colaborar directamente, podés contactarnos en recursos.estudio.estudiantes@gmail.com .
