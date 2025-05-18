@@ -1,5 +1,9 @@
-![Correlativas](correlativas_black.png)
+# 📚 Licenciatura en Matemática Aplicada (LMA) - Materias - FAMAF
 
+Repositorio colaborativo con materiales, enlaces y recursos de estudio para las materias de la **Licenciatura en Matemática Aplicada (LMA)** de FAMAF - UNC.  
+El objetivo es organizar y facilitar el acceso a apuntes, prácticas, resúmenes, exámenes y proyectos por materia y año.
+
+> 💡 Este repositorio está en desarrollo permanente. ¡Contribuciones son bienvenidas!
 ## Primer año
 ### [1º 1C - Algoritmos y Programación](https://github.com/FAMAF-resources/LMA-1ro_1C-Algoritmos_y_Programacion-FAMAF)
 ### [1º 1C - Matemática Discreta I](https://github.com/FAMAF-resources/1ro_1C-Matematica_Discreta_I-FAMAF)
@@ -35,11 +39,43 @@
 ### [5º 1C - Modelos de Programación](https://github.com/FAMAF-resources/3ro_1C-Paradigmas_de_la_Programacion-FAMAF)
 ### [5º 2C - Gestión de Proyectos](https://github.com/FAMAF-resources/LMA-5to_2C-Gestion-de-Proyectos-FAMAF)
 
-![Correlativas](correlativas_black.JPG)
 
-\TODO
-agregar correlativas las versiones que tengas
-agregar tabla equivalencias tentativa
-Materia compu | materia LMA | aclaracion
+# 📌 Correlativas
+![Correlativas](plan/correlativas_black.png)
+
+# 🔄 Equivalencias con otras carreras
+
+>  *Estas equivalencias están sujetas a cambios. Se recomienda consultar con la facultad y con algún docente antes de realizar un cambio de carrera.*
+
+| Materia LMA                    | Materia en otra carrera   | Aclaración                                                                                         |
+|-------------------------------|------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| Cálculo I                     | Misma materia para LCC |                                         |
+| Matemática Discreta I         | Misma materia para LCC |                                         |
+| Cálculo II                    | Misma materia para LCC |                                         |
+| Álgebra Lineal                | Misma materia para LCC, LM, LF, LA, LH (con nombres similares) |    |
+| Análisis Numérico I           | Misma materia para LCC, LM | Los alumnos de LCC no realizan el laboratorio. Es recomendable cursarla como alumno de LMA o LM.  |
+| Cálculo Vectorial             | Análoga a Análisis Matemático III (LM), con un enfoque más práctico  | Suele tomarse un coloquio con la unidad 3 "Curvas y superficies" para alumnos de otra carrera. |
+| Funciones Complejas           | Análoga a Funciones Analíticas (LM), con un enfoque más práctico. Incluso puede ser la misma materia segun el año | Puede tomarse un coloquio con la última unidad: Análisis de Fourier.                              |
+| Análisis Numérico II          | Misma materia para LM  |                  |
+| Probabilidad y Estadística    | Misma materia para LCC |                                                                                                    |
+| Algoritmos y Estructura de Datos | Misma que Algoritmos y Estructuras de Datos II (AYED2) de LCC                        |   |
+| Ecuaciones Diferenciales I    | Análoga a Ecuaciones Diferenciales Ordinarias (LM), con un enfoque más práctico.Incluso puede ser la misma materia segun el año | |
+| Modelos y Simulación          | Misma materia para LCC  |
+| Ecuaciones Diferenciales II   | Análoga a Ecuaciones Diferenciales II (LM), con un enfoque más práctico.Incluso puede ser la misma materia segun el año                |          |
+| Matemática Financiera         | Optativa en LCC, LM, PF y LF (conocida como Modelos Matemáticos en Finanzas Cuantitativas) |     |
+| Matemática Discreta II        | Misma materia para LCC |
+| Investigación de Operaciones  | Optativa en LCC  |
+| Ciencia de Datos              | Optativa en LCC (conocida como Introducción al Machine Learning)  |                                                   |
+| Optimización                  | Optativa en LCC  |                                                                                                    |
+| Modelos de Programación       | Optativa en LCC  conocida como Paradigmas de Programacion | En LMA se cubren solo 2/3 de la materia. Se recomienda cursarla como alumno de LCC.               |
 
 
+## 🤝 Cómo contribuir
+
+Este repositorio está abierto a contribuciones de estudiantes o egresados/as que deseen compartir material útil.
+
+- Si tenés apuntes, parciales, proyectos o cualquier recurso de una materia, ¡sumalo!
+- Podés hacer un fork, subir tus cambios y abrir un Pull Request.
+- También podés abrir un *issue* para proponer ideas o reportar errores en los enlaces.
+
+> ✉️ Si tenés dudas o querés colaborar directamente, podés contactarnos por GitHub.
